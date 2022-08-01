@@ -1,0 +1,45 @@
+2022/01/13 09:49:37 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"info","message":"%s:go-test-cici/%slccblog-service","time":1642038577520416000}
+2022/01/13 09:50:53 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"info","message":"lcc:go-test-cici/blog-service","time":1642038653968663000}
+2022/01/22 20:32:39 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:Name长度必须至少为3个字符","time":1642854759512743000}
+2022/01/22 20:51:40 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:ID为必填字段","time":1642855900718020000}
+2022/01/22 20:51:49 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:ID为必填字段","time":1642855909138859000}
+2022/01/22 21:11:28 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:State为必填字段","time":1642857088577407000}
+2022/01/22 21:12:23 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:State为必填字段","time":1642857143462716000}
+2022/01/22 21:12:30 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:Name长度必须至少为3个字符,State为必填字段","time":1642857150403026000}
+2022/01/22 21:13:11 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:Name长度必须至少为3个字符,State为必填字段","time":1642857191935298000}
+2022/01/22 21:13:16 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:State为必填字段","time":1642857196566220000}
+2022/01/22 21:14:18 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:Name长度必须至少为3个字符","time":1642857258307458000}
+2022/01/22 21:14:23 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:Name长度必须至少为3个字符,State为必填字段","time":1642857263258590000}
+2022/01/22 21:14:48 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:Name长度必须至少为3个字符,State为必填字段","time":1642857288341387000}
+2022/01/22 21:14:49 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:Name长度必须至少为3个字符,State为必填字段","time":1642857289489057000}
+2022/01/22 21:14:50 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:Name长度必须至少为3个字符,State为必填字段","time":1642857290707546000}
+2022/01/22 21:14:55 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:State为必填字段","time":1642857295342621000}
+2022/01/22 21:18:05 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:State为必填字段","time":1642857485921793000}
+2022/01/22 21:18:07 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:State为必填字段","time":1642857487731643000}
+2022/01/23 15:41:34 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:State为必填字段","time":1642923694759046000}
+2022/01/23 15:41:35 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:State为必填字段","time":1642923695833270000}
+2022/01/23 15:41:50 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:State为必填字段","time":1642923710554226000}
+2022/01/23 15:41:58 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:State为必填字段","time":1642923718971982000}
+2022/01/23 15:42:00 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:State为必填字段","time":1642923720815736000}
+2022/01/23 15:42:15 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:State为必填字段","time":1642923735413198000}
+2022/01/23 15:42:19 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:State为必填字段","time":1642923739378827000}
+2022/01/23 15:42:21 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:State为必填字段","time":1642923741037376000}
+2022/01/23 15:42:28 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:State为必填字段","time":1642923748544565000}
+2022/01/23 15:50:24 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:State为必填字段","time":1642924224223627000}
+2022/01/23 15:50:27 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:State为必填字段","time":1642924227520758000}
+2022/01/23 15:51:42 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:ID为必填字段,Name长度必须至少为3个字符,State为必填字段,ModifiedBy为必填字段","time":1642924302659940000}
+2022/01/23 15:51:54 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:ID为必填字段,Name长度必须至少为3个字符,State为必填字段,ModifiedBy为必填字段","time":1642924314328735000}
+2022/01/23 15:51:55 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:ID为必填字段,Name长度必须至少为3个字符,State为必填字段,ModifiedBy为必填字段","time":1642924315320565000}
+2022/01/23 15:52:01 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:State为必填字段","time":1642924321385650000}
+2022/01/23 15:52:14 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:State必须是[0 1]中的一个","time":1642924334003955000}
+2022/01/23 15:52:42 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:State为必填字段","time":1642924362467781000}
+2022/01/23 15:52:43 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:State为必填字段","time":1642924363586877000}
+2022/01/23 15:52:44 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:State为必填字段","time":1642924364377314000}
+2022/01/23 15:52:49 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:","time":1642924369502578000}
+2022/01/23 15:52:50 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:","time":1642924370935982000}
+2022/01/23 15:52:54 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:State为必填字段","time":1642924374784475000}
+2022/01/23 15:53:22 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:State必须是[0 1]中的一个","time":1642924402870343000}
+2022/01/23 15:54:53 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:State必须是[0 1]中的一个","time":1642924493215720000}
+2022/01/23 15:54:56 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:State为必填字段","time":1642924496435024000}
+2022/01/23 15:58:48 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:State为必填字段","time":1642924728858183000}
+2022/01/23 15:58:50 {"callers":["/Users/lincuicui/go/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs:State为必填字段","time":1642924730999896000}
